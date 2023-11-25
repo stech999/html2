@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.head_logo {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.head_menu {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.content_seo {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 30px;
+}
+
+.contenet_image {
+    padding-bottom: 30px;
+}
+
+.content_provide {
+    color: #888;
+    font-family: Gilroy-Medium;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 30px;
+}
+
+.content_button_start {
+    width: 140px;
+    height: 50px;
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+    vertical-align: middle;
+    margin-bottom: 30px;
+}
+
+.content_button_watch {
+    color: #AAA;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.content {
+    margin-bottom: 75px;
+}
+
+.footer_brand {
+    margin-right: 45px;
+}
